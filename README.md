@@ -1,9 +1,11 @@
-# Información del repositorio
-En esta práctica narro una historia interactiva en la que el espectador decide qué le ocurre al protagonista.
+# Repository information
+In this lab I narrate an interactive story in which the viewer decides what happens to the protagonist.
 
-El proyecto se ha realizado en html, utilizando Twine.
+The project has been done in html, using Twine.
 
-### Instrucciones
-Descargar el archivo html y abrirlo desde el ordenador.
+### Instructions
+Download the html file and open it from your computer.
 
-Para avanzar en la historia, clicar en las imágenes.
+To advance in the story, click on the images.
+
+NOTE: the story is narrated in Spanish.
